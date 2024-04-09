@@ -1,5 +1,5 @@
 # Deep-Learning
-Welcome to the Deep Learning Projects repository! This collection houses an array of fascinating deep learning projects implemented in Python using popular frameworks like TensorFlow and PyTorch. Each project serves as an opportunity to delve into the world of neural networks, exploring state-of-the-art models and applications.
+Welcome to the Deep Learning Projects repository! This collection houses an array of fascinating deep learning projects implemented in Python using popular frameworks like TensorFlow and PyTorch. Each project serves as an opportunity to delve into the world of neural networks, exploring state-of-the-art models and applications..
 Overview:
 Deep learning is a subfield of machine learning that focuses on neural networks and their ability to learn intricate patterns and representations from data. This repository showcases a diverse set of deep learning projects, including image recognition, natural language processing (NLP), generative models, reinforcement learning, and more.
 
