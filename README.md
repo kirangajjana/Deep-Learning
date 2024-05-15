@@ -9,7 +9,7 @@ Key Features:
 
 2. Comprehensive Documentation: Each project comes with detailed documentation, elucidating the project's objectives, data preprocessing, model design, training process, and performance evaluation.
 
-3. Reproducibility:-
+3. Reproducibility:
     The projects are designed for reproducibility, allowing users to replicate experiments and results effortlessly.
 
 5. Open-Source: All projects in this repository are open-source, encouraging contributions from the deep learning community. Developers and enthusiasts are invited to contribute their implementations and insights.
