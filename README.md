@@ -13,7 +13,7 @@ Key Features:
 
 4. Open-Source: All projects in this repository are open-source, encouraging contributions from the deep learning community. Developers and enthusiasts are invited to contribute their implementations and insights.
 
-Tech Stack:
+Tech Stack:-
 
 1. Python
 2. TensorFlow or PyTorch for deep learning models
