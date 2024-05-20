@@ -18,13 +18,13 @@ Tech Stack:
 
 1. Python
 2. TensorFlow or PyTorch for deep learning models
-3. NumPy, Pandas, and Scikit-learn for data manipulation and pre-processing
+3. NumPy, Pandas, and Scikit-learn for data manipulation and pre-processing.
 
 How to Run the Projects:
 
 1. Clone the repository to your local machine
 2. Install the required dependencies using pip install -r requirements.txt.
-3. Navigate to the desired project directory and run the main script (e.g., python main.py).
+3. Navigate to the desired project directory and run the main script (e.g., python main.py)
 
 
 Contributions:
